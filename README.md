@@ -30,7 +30,3 @@ na plataforma netlify
 
 https://carrossel-react-js.netlify.app/
 
-
-
-
-# carrossel_react_js
